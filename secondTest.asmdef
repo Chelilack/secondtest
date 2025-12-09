@@ -1,0 +1,16 @@
+{
+    "name": "secondTest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:16f37f7897b33374ab97dcad5c4c5de5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
