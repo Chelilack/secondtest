@@ -5,6 +5,6 @@
   "unity": "2021.3",
   "description": "just Test",
   "dependencies": {
-    "testpackage": "1.0.0"
+    "testpackage": "https://github.com/Chelilack/packageTest-.git#master"
   }
 }
